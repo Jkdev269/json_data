@@ -1,0 +1,32 @@
+{"data":{
+    "Name":"Raj kumar",
+    "Id":"880",
+    "Collage":"sviit",
+    "Study":"Bca",
+    "Friend_name":"vishal,jk",
+    "Cit":"Gorakhpur",
+    "Village":"Basti",
+    "Aim":"Web Developer"
+},
+"data1":{
+"Name":"Vishal kumar yadav",
+    "Id":"881",
+    "Collage":"sviit",
+    "Study":"Bca",
+    "Friend_name":"RAjkumar,jk",
+    "Cit":"Gorakhpur",
+    "Village":"Pipraich",
+    "Aim":"Web Developer"
+},
+"data3":{
+    "Name":"Jaharuddin",
+    "Id":"882",
+    "Collage":"sviit",
+    "Study":"Bca",
+    "Friend_name":"Vishal,RAjkumar",
+    "Cit":"Gorakhpur",
+    "Village":"Turabazar",
+    "Aim":"Web Developer"
+
+}
+}
